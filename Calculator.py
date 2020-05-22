@@ -1,4 +1,5 @@
 # Python Calculator
+# Author Alex Harral
 num1 = int(input ("Enter in first number: "))
 
 operation = input('''
