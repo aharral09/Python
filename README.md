@@ -8,6 +8,7 @@
 * Calculator
 * AI predictions
 * Markdown styling through .md/.markdown
+* HackerRank Problems
 
 # This is the master branch for my git repository all major productions changes will be merged to this branch
 **Branches**
