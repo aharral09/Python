@@ -1,3 +1,4 @@
+# Python bouncing ball game
 import sys, pygame
 pygame.init()
 
@@ -8,7 +9,7 @@ black = 0, 0, 0
 screen = pygame.display.set_mode(size)
 
 self = pygame.image.load("index.png")
-self.rect = self.image.get_rect()
+self.rect = self.get_rect()
 self.screen_rect = screen.get_rect()
 
 self.image.set_colorkey((255, 255, 255))
