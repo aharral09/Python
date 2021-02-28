@@ -21,7 +21,7 @@ if operation == '+':
 if operation == '-':
     print('{} - {}'.format(num1, num2))
     print(num1 - num2)
-
+ 
 
 if operation == '/':
     print('{} / {}'.format(num1, num2))
